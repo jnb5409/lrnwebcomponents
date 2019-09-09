@@ -32,3 +32,4 @@ for project in */ ; do
   fi
   cd ../
 done
+hello everybody
